@@ -70,7 +70,7 @@ Build a Model for Actor Model and Actor Target. As we are building the same mode
 
 Look at the third line of the forward function which takes the x value and apply the tanh function to keep it between -1 and +1 and then multiplying that with the max action which helps them to take exactly the same angle.
 
-![](Images/step\_2.png)
+![](Images/step_2.png)
 
 Step3
 
@@ -122,7 +122,7 @@ max\_action  - Not required as it&#39;s going to come from
 
 
 
-![](Images/T3D\_net.png)
+![](Images/T3D\_net(new).png)
 
 Step-4
 
